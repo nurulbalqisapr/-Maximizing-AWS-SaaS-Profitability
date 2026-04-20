@@ -67,6 +67,18 @@ The analysis shows that discounting is not an effective driver of sales growth b
 - Apply higher control for high-value customers  
 
 ---
+## Project Structure
+
+- Analysis Notebook: SaaS_Analysis.ipynb  
+  End-to-end analysis including data cleaning, EDA, statistical modeling, RFM segmentation, and discount optimization.
+  
+- Raw Dataset: SaaS-Sales.csv  
+  Original transactional data from AWS SaaS sales.
+
+- Output Results: SaaS_Discount_Analysis.xlsx  
+  Final processed outputs including cleaned data, segmentation results, and before-after optimization analysis.
+
+---
 
 ## Tools Used
 
