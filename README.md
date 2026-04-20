@@ -33,7 +33,7 @@ Discounts should be treated as a strategic lever rather than a growth shortcut, 
 
 ## Methodology
 
-- Data Cleaning & Feature Engineering  
+- Data Understanding & Data Cleaning
 - Exploratory Data Analysis (EDA)  
 - Correlation Analysis  
 - Linear Regression Modeling  
