@@ -1,4 +1,5 @@
-# Maximizing SaaS Profitability: Optimizing Discount Strategies
+## Maximizing SaaS Profitability: Optimizing Discount Strategies to Improve Profit and Preserve Margins.
+Amazon Web Service SaaS Sales Data Analysis
 
 ## Overview
 
